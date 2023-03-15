@@ -1,0 +1,2 @@
+# Ignores files that contain sensitive info
+.env*
